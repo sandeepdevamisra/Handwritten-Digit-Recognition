@@ -1,2 +1,2 @@
 # Handwritten-Digit-Recognition
-Using Machine Learning Algorithms and Convolutional Neural Network (CNN)
+Dataset can be found in: https://www.kaggle.com/c/digit-recognizer/data
