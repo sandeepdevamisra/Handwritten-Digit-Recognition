@@ -4,5 +4,6 @@ The project is based on the famous MNIST Dataset. SVM (Support Vector Machine), 
 - [Using Machine Learning Algorithm.ipynb](https://github.com/pi-by-2/Handwritten-Digit-Recognition/blob/master/Using%20Machine%20Learning%20Algorithms.ipynb)
 - [Using Convolutional Neural Network (CNN).ipynb](https://github.com/pi-by-2/Handwritten-Digit-Recognition/blob/master/Using%20Convolutional%20Neural%20Network%20(CNN).ipynb)
 - [Results obtained from ML Models and CNN.ipynb](https://github.com/pi-by-2/Handwritten-Digit-Recognition/blob/master/Results%20obtained%20from%20ML%20Models%20and%20CNN.ipynb)
+### Dataset and Project Report
 - Dataset can be found in: https://www.kaggle.com/c/digit-recognizer/data
 - The project report will be updated in the [Wiki](https://github.com/pi-by-2/Handwritten-Digit-Recognition/wiki) of the repository
